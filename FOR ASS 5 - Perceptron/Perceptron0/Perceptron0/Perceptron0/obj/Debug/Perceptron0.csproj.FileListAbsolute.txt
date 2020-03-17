@@ -1,0 +1,8 @@
+C:\Users\nogra\source\repos\Perceptron0\Perceptron0\obj\Debug\Perceptron0.Form1.resources
+C:\Users\nogra\source\repos\Perceptron0\Perceptron0\obj\Debug\Perceptron0.Properties.Resources.resources
+C:\Users\nogra\source\repos\Perceptron0\Perceptron0\obj\Debug\Perceptron0.csproj.GenerateResource.cache
+C:\Users\nogra\source\repos\Perceptron0\Perceptron0\bin\Debug\Perceptron0.exe.config
+C:\Users\nogra\source\repos\Perceptron0\Perceptron0\bin\Debug\Perceptron0.exe
+C:\Users\nogra\source\repos\Perceptron0\Perceptron0\bin\Debug\Perceptron0.pdb
+C:\Users\nogra\source\repos\Perceptron0\Perceptron0\obj\Debug\Perceptron0.exe
+C:\Users\nogra\source\repos\Perceptron0\Perceptron0\obj\Debug\Perceptron0.pdb

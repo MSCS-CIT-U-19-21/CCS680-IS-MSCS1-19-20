@@ -1,0 +1,20 @@
+C:\Users\lenovo\source\repos\GeneticAlgorithm1\GeneticAlgorithm1\bin\Debug\GeneticAlgorithm1.exe.config
+C:\Users\lenovo\source\repos\GeneticAlgorithm1\GeneticAlgorithm1\bin\Debug\GeneticAlgorithm1.exe
+C:\Users\lenovo\source\repos\GeneticAlgorithm1\GeneticAlgorithm1\bin\Debug\GeneticAlgorithm1.pdb
+C:\Users\lenovo\source\repos\GeneticAlgorithm1\GeneticAlgorithm1\obj\Debug\GeneticAlgorithm1.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\GeneticAlgorithm1\GeneticAlgorithm1\obj\Debug\GeneticAlgorithm1.Properties.Resources.resources
+C:\Users\lenovo\source\repos\GeneticAlgorithm1\GeneticAlgorithm1\obj\Debug\GeneticAlgorithm1.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\GeneticAlgorithm1\GeneticAlgorithm1\obj\Debug\GeneticAlgorithm1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\GeneticAlgorithm1\GeneticAlgorithm1\obj\Debug\GeneticAlgorithm1.exe
+C:\Users\lenovo\source\repos\GeneticAlgorithm1\GeneticAlgorithm1\obj\Debug\GeneticAlgorithm1.pdb
+C:\Users\lenovo\source\repos\GeneticAlgorithm1\GeneticAlgorithm1\obj\Debug\GeneticAlgorithm1.Form1.resources
+E:\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\FOR ASS 4 - Genetic Algorithm\GeneticAlgorithm1\GeneticAlgorithm1\GeneticAlgorithm1\bin\Debug\GeneticAlgorithm1.exe.config
+E:\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\FOR ASS 4 - Genetic Algorithm\GeneticAlgorithm1\GeneticAlgorithm1\GeneticAlgorithm1\bin\Debug\GeneticAlgorithm1.exe
+E:\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\FOR ASS 4 - Genetic Algorithm\GeneticAlgorithm1\GeneticAlgorithm1\GeneticAlgorithm1\bin\Debug\GeneticAlgorithm1.pdb
+E:\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\FOR ASS 4 - Genetic Algorithm\GeneticAlgorithm1\GeneticAlgorithm1\GeneticAlgorithm1\obj\Debug\GeneticAlgorithm1.csprojAssemblyReference.cache
+E:\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\FOR ASS 4 - Genetic Algorithm\GeneticAlgorithm1\GeneticAlgorithm1\GeneticAlgorithm1\obj\Debug\GeneticAlgorithm1.Form1.resources
+E:\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\FOR ASS 4 - Genetic Algorithm\GeneticAlgorithm1\GeneticAlgorithm1\GeneticAlgorithm1\obj\Debug\GeneticAlgorithm1.Properties.Resources.resources
+E:\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\FOR ASS 4 - Genetic Algorithm\GeneticAlgorithm1\GeneticAlgorithm1\GeneticAlgorithm1\obj\Debug\GeneticAlgorithm1.csproj.GenerateResource.cache
+E:\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\FOR ASS 4 - Genetic Algorithm\GeneticAlgorithm1\GeneticAlgorithm1\GeneticAlgorithm1\obj\Debug\GeneticAlgorithm1.csproj.CoreCompileInputs.cache
+E:\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\FOR ASS 4 - Genetic Algorithm\GeneticAlgorithm1\GeneticAlgorithm1\GeneticAlgorithm1\obj\Debug\GeneticAlgorithm1.exe
+E:\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\FOR ASS 4 - Genetic Algorithm\GeneticAlgorithm1\GeneticAlgorithm1\GeneticAlgorithm1\obj\Debug\GeneticAlgorithm1.pdb

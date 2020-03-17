@@ -1,0 +1,9 @@
+E:\OneDrive\Mixed Files\Documents\Visual Studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+E:\OneDrive\Mixed Files\Documents\Visual Studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+E:\OneDrive\Mixed Files\Documents\Visual Studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\x86\Debug\GeneticAlgorithm.Form1.resources
+E:\OneDrive\Mixed Files\Documents\Visual Studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\x86\Debug\GeneticAlgorithm.Properties.Resources.resources
+E:\OneDrive\Mixed Files\Documents\Visual Studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\x86\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+E:\OneDrive\Mixed Files\Documents\Visual Studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\x86\Debug\GeneticAlgorithm.exe
+E:\OneDrive\Mixed Files\Documents\Visual Studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\x86\Debug\GeneticAlgorithm.pdb
+E:\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\FOR ASS 4 - Genetic Algorithm\GENETIC-ALGO-VS-2010\GeneticAlgorithm\obj\x86\Debug\GeneticAlgorithm.exe
+E:\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\FOR ASS 4 - Genetic Algorithm\GENETIC-ALGO-VS-2010\GeneticAlgorithm\obj\x86\Debug\GeneticAlgorithm.pdb

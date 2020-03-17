@@ -1,0 +1,7 @@
+e:\onedrive\mixed files\documents\visual studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+e:\onedrive\mixed files\documents\visual studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+e:\onedrive\mixed files\documents\visual studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\x86\Debug\GeneticAlgorithm.Form1.resources
+e:\onedrive\mixed files\documents\visual studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\x86\Debug\GeneticAlgorithm.Properties.Resources.resources
+e:\onedrive\mixed files\documents\visual studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\x86\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+e:\onedrive\mixed files\documents\visual studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\x86\Debug\GeneticAlgorithm.exe
+e:\onedrive\mixed files\documents\visual studio 2010\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\x86\Debug\GeneticAlgorithm.pdb
