@@ -16,3 +16,12 @@ G:\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\FOR ASS 5 - Perce
 G:\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\FOR ASS 5 - Perceptron\Perceptron1\Perceptron1\Perceptron1\obj\Debug\Perceptron1.csproj.GenerateResource.cache
 G:\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\FOR ASS 5 - Perceptron\Perceptron1\Perceptron1\Perceptron1\obj\Debug\Perceptron1.exe
 G:\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\FOR ASS 5 - Perceptron\Perceptron1\Perceptron1\Perceptron1\obj\Debug\Perceptron1.pdb
+C:\Users\user\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\CCS680-IS-MSCS1-19-20\FOR ASS 5 - Perceptron\Perceptron1\Perceptron1\Perceptron1\bin\Debug\Perceptron1.exe.config
+C:\Users\user\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\CCS680-IS-MSCS1-19-20\FOR ASS 5 - Perceptron\Perceptron1\Perceptron1\Perceptron1\obj\Debug\Perceptron1.exe
+C:\Users\user\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\CCS680-IS-MSCS1-19-20\FOR ASS 5 - Perceptron\Perceptron1\Perceptron1\Perceptron1\obj\Debug\Perceptron1.pdb
+C:\Users\user\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\CCS680-IS-MSCS1-19-20\FOR ASS 5 - Perceptron\Perceptron1\Perceptron1\Perceptron1\bin\Debug\Perceptron1.exe
+C:\Users\user\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\CCS680-IS-MSCS1-19-20\FOR ASS 5 - Perceptron\Perceptron1\Perceptron1\Perceptron1\bin\Debug\Perceptron1.pdb
+C:\Users\user\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\CCS680-IS-MSCS1-19-20\FOR ASS 5 - Perceptron\Perceptron1\Perceptron1\Perceptron1\obj\Debug\Perceptron1.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\CCS680-IS-MSCS1-19-20\FOR ASS 5 - Perceptron\Perceptron1\Perceptron1\Perceptron1\obj\Debug\Perceptron1.Form1.resources
+C:\Users\user\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\CCS680-IS-MSCS1-19-20\FOR ASS 5 - Perceptron\Perceptron1\Perceptron1\Perceptron1\obj\Debug\Perceptron1.Properties.Resources.resources
+C:\Users\user\OneDrive\Education\MSCS\CIT-U\CCS680 - Intelligent System I\CCS680-IS-MSCS1-19-20\FOR ASS 5 - Perceptron\Perceptron1\Perceptron1\Perceptron1\obj\Debug\Perceptron1.csproj.GenerateResource.Cache
